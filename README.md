@@ -1,5 +1,5 @@
 # exam_manager_face_recognition
-Libraries needed for run the application
+<h3>Libraries needed for run the application</h3> <br/>
 Tkinter <br/>
 Pillow <br/>
 OpenCV <br/>
